@@ -1,4 +1,5 @@
 import { axes, clamp } from "./scoring";
+import { SITE_URL } from "../data/site";
 import type { QuizResult } from "../types/nbti";
 
 type PosterInput = {
@@ -62,7 +63,7 @@ export async function createPosterBlob({ result }: PosterInput) {
   drawAxes(ctx, result.vector, margin, axesTop + 62, contentWidth);
 
   drawText(ctx, "仅供自嘲，不供自首", margin, 1358, 25, "#686d65", "700");
-  drawText(ctx, "NBTI", 892, 1358, 36, "#123f38", "900");
+  drawText(ctx, SITE_URL, 610, 1358, 21, "#123f38", "800");
 
   return new Promise<Blob>((resolve, reject) => {
     canvas.toBlob((blob) => {

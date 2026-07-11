@@ -73,6 +73,7 @@ test("completes the private in-memory quiz and exposes sources", async ({ page }
 
   await page.getByRole("button", { name: "复制结果" }).click();
   await expect(page.locator(".share-box")).toBeVisible();
+  await expect(page.locator(".share-box")).toHaveValue(/https:\/\/0mn1si2i5\.github\.io\/NBTI\//);
 
   if (testInfo.project.name === "desktop") {
     const downloadPromise = page.waitForEvent("download");

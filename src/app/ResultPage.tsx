@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { AxisBars } from "../components/AxisBars";
 import { ResultTile } from "../components/ResultTile";
+import { SITE_URL } from "../data/site";
 import { downloadPoster } from "../logic/poster";
 import type { QuizResult } from "../types/nbti";
 
@@ -29,7 +30,7 @@ export function ResultPage({ result, onRestart }: ResultPageProps) {
   }
 
   async function handleShare() {
-    const text = `我的 NBTI 精神切片：${person.person} · ${person.title}\n${person.quote.text}\n${person.why}`;
+    const text = `我的 NBTI 精神切片：${person.person} · ${person.title}\n${person.quote.text}\n${person.why}\n\n测测你的：${SITE_URL}`;
     setShareText(text);
     try {
       await navigator.clipboard.writeText(text);
