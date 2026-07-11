@@ -1,0 +1,44 @@
+[
+  {
+    "key": "tui_jin",
+    "label": "退进",
+    "left": "退",
+    "right": "进",
+    "weight": 1.2
+  },
+  {
+    "key": "po_li",
+    "label": "破立",
+    "left": "破",
+    "right": "立",
+    "weight": 1.2
+  },
+  {
+    "key": "xu_shi",
+    "label": "虚实",
+    "left": "虚",
+    "right": "实",
+    "weight": 1.1
+  },
+  {
+    "key": "kuang_zhi",
+    "label": "旷执",
+    "left": "旷",
+    "right": "执",
+    "weight": 1
+  },
+  {
+    "key": "qi_zheng",
+    "label": "奇正",
+    "left": "奇",
+    "right": "正",
+    "weight": 0.9
+  },
+  {
+    "key": "rou_gang",
+    "label": "柔刚",
+    "left": "柔",
+    "right": "刚",
+    "weight": 0.9
+  }
+]

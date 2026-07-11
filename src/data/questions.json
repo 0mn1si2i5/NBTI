@@ -1,0 +1,1256 @@
+[
+  {
+    "id": "q01",
+    "type": "scenario",
+    "text": "四个人约一次短途旅行。聊了三天，时间还没定下来。",
+    "design": {
+      "primaryAxis": "tui_jin",
+      "secondaryAxis": "po_li",
+      "distinguishes": [
+        "王导",
+        "刘裕",
+        "陶渊明",
+        "山涛"
+      ]
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "把大家空闲的日期整理成两档，发群里等人选。",
+        "delta": {
+          "tui_jin": -2,
+          "po_li": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "先放着。真想去的人，过两天还会再提。",
+        "delta": {
+          "tui_jin": -1,
+          "po_li": -1
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "提一个具体时间，不行的人再往后改。",
+        "delta": {
+          "tui_jin": 1,
+          "po_li": 1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "先订一个可以退的住处，决定去的人自然会跟上。",
+        "delta": {
+          "tui_jin": 2,
+          "po_li": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q02",
+    "type": "scenario",
+    "text": "家里有条沿用多年的规矩，如今已经没人说得清它有什么用。",
+    "design": {
+      "primaryAxis": "po_li",
+      "secondaryAxis": "xu_shi",
+      "distinguishes": [
+        "王猛",
+        "王导",
+        "元宏",
+        "嵇康"
+      ]
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "先问清谁还在依赖它；没人需要，就正式取消。",
+        "delta": {
+          "po_li": -2,
+          "xu_shi": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "表面照旧，私下各过各的，别为这件事开会。",
+        "delta": {
+          "po_li": -1,
+          "xu_shi": -1
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "把例外写清楚，其余部分仍按原来的办。",
+        "delta": {
+          "po_li": 1,
+          "xu_shi": 1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "给它换一个大家还能接受的说法，先把场面维持住。",
+        "delta": {
+          "po_li": 2,
+          "xu_shi": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q03",
+    "type": "scenario",
+    "text": "你要在两个都不算坏的选择里做决定，但手里的信息永远不会齐。",
+    "design": {
+      "primaryAxis": "xu_shi",
+      "secondaryAxis": "kuang_zhi",
+      "distinguishes": [
+        "王弼",
+        "司马懿",
+        "葛洪",
+        "王衍"
+      ]
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "先想清自己真正怕失去什么，再看哪个选择碰到了它。",
+        "delta": {
+          "xu_shi": -2,
+          "kuang_zhi": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "出去走一圈，等心里那个更想要的答案浮出来。",
+        "delta": {
+          "xu_shi": -1,
+          "kuang_zhi": -1
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "把已知条件写下来，只讨论能够证实的部分。",
+        "delta": {
+          "xu_shi": 1,
+          "kuang_zhi": 1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "选眼下损失较小的那个，之后有新情况再修正。",
+        "delta": {
+          "xu_shi": 2,
+          "kuang_zhi": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q04",
+    "type": "scenario",
+    "text": "已经很晚了，一场争论还卡在原地，谁都没有真正被说服。",
+    "design": {
+      "primaryAxis": "kuang_zhi",
+      "secondaryAxis": "qi_zheng",
+      "distinguishes": [
+        "谢安",
+        "桓温",
+        "阮籍",
+        "苻坚"
+      ]
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "约好明天几点继续，今晚就停在这里。",
+        "delta": {
+          "kuang_zhi": -2,
+          "qi_zheng": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "发一个无关的表情，把这晚先轻轻放过去。",
+        "delta": {
+          "kuang_zhi": -1,
+          "qi_zheng": -1
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "把分歧缩成一个问题，只谈完这一件再睡。",
+        "delta": {
+          "kuang_zhi": 1,
+          "qi_zheng": 1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "换一种问法继续追，今晚至少要碰到问题的根。",
+        "delta": {
+          "kuang_zhi": 2,
+          "qi_zheng": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q05",
+    "type": "scenario",
+    "text": "一条规定明显不合理，大家都在抱怨，也都默认继续忍着。",
+    "design": {
+      "primaryAxis": "qi_zheng",
+      "secondaryAxis": "rou_gang",
+      "distinguishes": [
+        "元宏",
+        "宇文泰",
+        "何晏",
+        "侯景"
+      ]
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "找最受影响的人一起做个小实验，让问题自己露出来。",
+        "delta": {
+          "qi_zheng": -2,
+          "rou_gang": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "用一句玩笑把荒谬说破，看看现场有谁愿意接话。",
+        "delta": {
+          "qi_zheng": -1,
+          "rou_gang": -1
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "整理事实，按正式渠道提交一个明确的修改建议。",
+        "delta": {
+          "qi_zheng": 1,
+          "rou_gang": 1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "先和执行的人谈，给他一个能够往上说明的版本。",
+        "delta": {
+          "qi_zheng": 2,
+          "rou_gang": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q06",
+    "type": "scenario",
+    "text": "一个朋友已经连续三次迟到，每次都有听起来说得过去的原因。",
+    "design": {
+      "primaryAxis": "rou_gang",
+      "secondaryAxis": "tui_jin",
+      "distinguishes": [
+        "谢安",
+        "嵇康",
+        "王导",
+        "高洋"
+      ]
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "先问他最近是不是出了什么事，然后再谈时间。",
+        "delta": {
+          "rou_gang": -2,
+          "tui_jin": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "这次不说什么，以后少约需要准点的事情。",
+        "delta": {
+          "rou_gang": -1,
+          "tui_jin": -1
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "当面说我不想再等，请他下次按约定来。",
+        "delta": {
+          "rou_gang": 1,
+          "tui_jin": 1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "下次到了时间我就先走，不再另外提醒。",
+        "delta": {
+          "rou_gang": 2,
+          "tui_jin": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q07",
+    "type": "scenario",
+    "text": "一个机会突然落到你面前。它有吸引力，但条件还没有完全说清。",
+    "design": {
+      "primaryAxis": "tui_jin",
+      "secondaryAxis": "xu_shi",
+      "distinguishes": [
+        "司马懿",
+        "司马昭",
+        "陈庆之",
+        "高欢"
+      ]
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "先答应试一段时间，很多事只有进去以后才知道。",
+        "delta": {
+          "tui_jin": 1,
+          "xu_shi": -1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "把时间、责任和退出条件问清，再决定要不要接。",
+        "delta": {
+          "tui_jin": -2,
+          "xu_shi": 1
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "先说愿意，具体条件在真正开始前谈妥。",
+        "delta": {
+          "tui_jin": 2,
+          "xu_shi": 1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "找一个不伤人的理由拒绝，模糊本身已经是答案。",
+        "delta": {
+          "tui_jin": -1,
+          "xu_shi": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q08",
+    "type": "scenario",
+    "text": "合住的公共区域越来越乱，几个人对“整洁”的理解完全不同。",
+    "design": {
+      "primaryAxis": "po_li",
+      "secondaryAxis": "kuang_zhi",
+      "distinguishes": [
+        "王猛",
+        "王导",
+        "宇文泰",
+        "刘裕"
+      ]
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "只定一条规则：用完的东西当天归位。",
+        "delta": {
+          "po_li": 1,
+          "kuang_zhi": -1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "先把公共区域彻底清空，再决定什么值得放回来。",
+        "delta": {
+          "po_li": -2,
+          "kuang_zhi": 1
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "划清每个人的区域，再排一个轮值顺序。",
+        "delta": {
+          "po_li": 2,
+          "kuang_zhi": 1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "扔掉坏的，剩下的留点混乱也没关系。",
+        "delta": {
+          "po_li": -1,
+          "kuang_zhi": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q09",
+    "type": "scenario",
+    "text": "一件关于你的事被传错了。它不至于毁掉什么，但听着很不舒服。",
+    "design": {
+      "primaryAxis": "xu_shi",
+      "secondaryAxis": "qi_zheng",
+      "distinguishes": [
+        "司马懿",
+        "王衍",
+        "阮籍",
+        "王羲之"
+      ]
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "找最初的当事人私下讲清，不公开回应。",
+        "delta": {
+          "xu_shi": 1,
+          "qi_zheng": -1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "写一段不点名的话，只把自己的感受说明白。",
+        "delta": {
+          "xu_shi": -2,
+          "qi_zheng": 1
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "按时间列出事实，需要的时候一次性公开。",
+        "delta": {
+          "xu_shi": 2,
+          "qi_zheng": 1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "把它当笑话讲几次，让这个说法慢慢失去分量。",
+        "delta": {
+          "xu_shi": -1,
+          "qi_zheng": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q10",
+    "type": "scenario",
+    "text": "一本书已经读到八成，你忽然发现自己根本不想再读。",
+    "design": {
+      "primaryAxis": "kuang_zhi",
+      "secondaryAxis": "rou_gang",
+      "distinguishes": [
+        "陶渊明",
+        "葛洪",
+        "桓温",
+        "谢灵运"
+      ]
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "跳到结尾看一眼，再决定要不要补完。",
+        "delta": {
+          "kuang_zhi": 1,
+          "rou_gang": -1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "承认它已经失去吸引力，现在就合上。",
+        "delta": {
+          "kuang_zhi": -2,
+          "rou_gang": 1
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "既然读到这里，还是把最后一段走完。",
+        "delta": {
+          "kuang_zhi": 2,
+          "rou_gang": 1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "夹好书签放回去，也许以后会想起来。",
+        "delta": {
+          "kuang_zhi": -1,
+          "rou_gang": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q11",
+    "type": "scenario",
+    "text": "你独自在一座陌生城市多出半天空闲，没有必须完成的安排。",
+    "design": {
+      "primaryAxis": "qi_zheng",
+      "secondaryAxis": "tui_jin",
+      "distinguishes": [
+        "陈庆之",
+        "王羲之",
+        "元宏",
+        "刘伶"
+      ]
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "照地图走一条成熟路线，但不给自己排满。",
+        "delta": {
+          "qi_zheng": 1,
+          "tui_jin": -1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "临时坐上一班陌生方向的车，到想下的地方再下。",
+        "delta": {
+          "qi_zheng": -2,
+          "tui_jin": 1
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "提前订好两处想看的地方，按时间出发。",
+        "delta": {
+          "qi_zheng": 2,
+          "tui_jin": 1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "只在住处附近随便拐，累了就回来。",
+        "delta": {
+          "qi_zheng": -1,
+          "tui_jin": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q12",
+    "type": "scenario",
+    "text": "有人请你帮一个忙。你不太愿意，但拒绝会让对方临时很难办。",
+    "design": {
+      "primaryAxis": "rou_gang",
+      "secondaryAxis": "po_li",
+      "distinguishes": [
+        "王导",
+        "山涛",
+        "嵇康",
+        "刘伶"
+      ]
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "说明自己能做到哪一步，剩下的请他另找人。",
+        "delta": {
+          "rou_gang": 1,
+          "po_li": -1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "先答应下来，再悄悄把做法改成自己能承受的版本。",
+        "delta": {
+          "rou_gang": -2,
+          "po_li": 1
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "直接说这次不能帮，也把自己的边界讲清。",
+        "delta": {
+          "rou_gang": 2,
+          "po_li": 1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "用玩笑把话岔开，让对方自己听出不方便。",
+        "delta": {
+          "rou_gang": -1,
+          "po_li": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q13",
+    "type": "scenario",
+    "text": "你无意间听见别人把本该属于你的功劳说成了另一个人的。",
+    "design": {
+      "primaryAxis": "tui_jin",
+      "secondaryAxis": "kuang_zhi",
+      "distinguishes": [
+        "曹丕",
+        "桓温",
+        "谢安",
+        "司马懿"
+      ]
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "当场加入谈话，把事情经过补完整。",
+        "delta": {
+          "tui_jin": 2,
+          "kuang_zhi": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "等他们说完，再单独找关键的人谈一次。",
+        "delta": {
+          "tui_jin": 1,
+          "kuang_zhi": 1
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "先记下来，看看这是口误，还是会再次发生。",
+        "delta": {
+          "tui_jin": -1,
+          "kuang_zhi": -1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "不进入这场谈话；值得合作的人迟早会看见。",
+        "delta": {
+          "tui_jin": -2,
+          "kuang_zhi": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q14",
+    "type": "scenario",
+    "text": "一个大家熟悉的固定活动越来越敷衍，继续办只是因为从来没人叫停。",
+    "design": {
+      "primaryAxis": "po_li",
+      "secondaryAxis": "qi_zheng",
+      "distinguishes": [
+        "元宏",
+        "宇文泰",
+        "王猛",
+        "高欢"
+      ]
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "写一套新的办法，下一次直接试运行。",
+        "delta": {
+          "po_li": 2,
+          "qi_zheng": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "保留原来的框架，只换掉最无效的一环。",
+        "delta": {
+          "po_li": 1,
+          "qi_zheng": 1
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "不再规定形式，让想来的人临场决定做什么。",
+        "delta": {
+          "po_li": -1,
+          "qi_zheng": -1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "先彻底停一次；真有人怀念，再重新开始。",
+        "delta": {
+          "po_li": -2,
+          "qi_zheng": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q15",
+    "type": "scenario",
+    "text": "家人追问你为什么做了一个他们不太理解的人生选择。",
+    "design": {
+      "primaryAxis": "xu_shi",
+      "secondaryAxis": "rou_gang",
+      "distinguishes": [
+        "陶渊明",
+        "曹植",
+        "石勒",
+        "王衍"
+      ]
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "把收入、时间和后续计划都讲给他们听。",
+        "delta": {
+          "xu_shi": 2,
+          "rou_gang": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "说明决定已经做了，再给一个最主要的理由。",
+        "delta": {
+          "xu_shi": 1,
+          "rou_gang": 1
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "说这件事对自己很重要，但现在还解释不完整。",
+        "delta": {
+          "xu_shi": -1,
+          "rou_gang": -1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "给一个无伤大雅的理由，先结束这轮盘问。",
+        "delta": {
+          "xu_shi": -2,
+          "rou_gang": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q16",
+    "type": "scenario",
+    "text": "你一直想问一个旧朋友：当年为什么突然和你疏远。很多年过去了。",
+    "design": {
+      "primaryAxis": "kuang_zhi",
+      "secondaryAxis": "tui_jin",
+      "distinguishes": [
+        "庾信",
+        "桓温",
+        "陶渊明",
+        "慕容垂"
+      ]
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "今天就打过去。答案好不好听，至少是真的。",
+        "delta": {
+          "kuang_zhi": 2,
+          "tui_jin": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "发一句简单的问候，给这段关系一个重新说话的机会。",
+        "delta": {
+          "kuang_zhi": 1,
+          "tui_jin": 1
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "保留这个问题；哪天自然遇见，再看要不要问。",
+        "delta": {
+          "kuang_zhi": -1,
+          "tui_jin": -1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "不再需要他的解释。过去没有义务替现在收尾。",
+        "delta": {
+          "kuang_zhi": -2,
+          "tui_jin": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q17",
+    "type": "scenario",
+    "text": "几位不太熟的朋友第一次一起吃饭。你知道冷场的概率不低。",
+    "design": {
+      "primaryAxis": "qi_zheng",
+      "secondaryAxis": "po_li",
+      "distinguishes": [
+        "谢安",
+        "王羲之",
+        "高欢",
+        "何晏"
+      ]
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "提前安排座位和一个大家都能参与的小活动。",
+        "delta": {
+          "qi_zheng": 2,
+          "po_li": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "只定好时间、地点和点菜的人，其余顺其自然。",
+        "delta": {
+          "qi_zheng": 1,
+          "po_li": 1
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "故意邀请一个谁都没想到的人，让局面自己变化。",
+        "delta": {
+          "qi_zheng": -1,
+          "po_li": -1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "不设主桌，也不强求一起聊；人可以随时换到别处坐。",
+        "delta": {
+          "qi_zheng": -2,
+          "po_li": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q18",
+    "type": "scenario",
+    "text": "你认真道了歉，对方说自己知道了，但暂时并不想原谅。",
+    "design": {
+      "primaryAxis": "rou_gang",
+      "secondaryAxis": "xu_shi",
+      "distinguishes": [
+        "王导",
+        "嵇康",
+        "谢安",
+        "高洋"
+      ]
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "接受这个结果，再问还有什么具体事情需要补救。",
+        "delta": {
+          "rou_gang": 2,
+          "xu_shi": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "把自己做错的部分说清，不要求对方立刻回应。",
+        "delta": {
+          "rou_gang": 1,
+          "xu_shi": 1
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "解释当时的处境，希望对方至少理解自己不是故意的。",
+        "delta": {
+          "rou_gang": -1,
+          "xu_shi": -1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "留下一句温和的话，之后不再主动提这件事。",
+        "delta": {
+          "rou_gang": -2,
+          "xu_shi": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q19",
+    "type": "likert",
+    "text": "一件事只要值得做，即使没人催、结果也不确定，我通常会先动一步。",
+    "design": {
+      "primaryAxis": "tui_jin",
+      "distinguishes": [],
+      "keying": "positive"
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "1",
+        "text": "完全不像我",
+        "delta": {
+          "tui_jin": -2
+        }
+      },
+      {
+        "id": "b",
+        "label": "2",
+        "text": "不太像我",
+        "delta": {
+          "tui_jin": -1
+        }
+      },
+      {
+        "id": "c",
+        "label": "3",
+        "text": "有时像，有时不像",
+        "delta": {}
+      },
+      {
+        "id": "d",
+        "label": "4",
+        "text": "比较像我",
+        "delta": {
+          "tui_jin": 1
+        }
+      },
+      {
+        "id": "e",
+        "label": "5",
+        "text": "非常像我",
+        "delta": {
+          "tui_jin": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "q20",
+    "type": "likert",
+    "text": "一种做法明显失灵时，我宁可先把它停掉，也不愿靠修补继续维持。",
+    "design": {
+      "primaryAxis": "po_li",
+      "distinguishes": [],
+      "keying": "negative"
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "1",
+        "text": "完全不像我",
+        "delta": {
+          "po_li": 2
+        }
+      },
+      {
+        "id": "b",
+        "label": "2",
+        "text": "不太像我",
+        "delta": {
+          "po_li": 1
+        }
+      },
+      {
+        "id": "c",
+        "label": "3",
+        "text": "有时像，有时不像",
+        "delta": {}
+      },
+      {
+        "id": "d",
+        "label": "4",
+        "text": "比较像我",
+        "delta": {
+          "po_li": -1
+        }
+      },
+      {
+        "id": "e",
+        "label": "5",
+        "text": "非常像我",
+        "delta": {
+          "po_li": -2
+        }
+      }
+    ]
+  },
+  {
+    "id": "q21",
+    "type": "likert",
+    "text": "事情含混不清时，我会先确认事实，再考虑它意味着什么。",
+    "design": {
+      "primaryAxis": "xu_shi",
+      "distinguishes": [],
+      "keying": "positive"
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "1",
+        "text": "完全不像我",
+        "delta": {
+          "xu_shi": -2
+        }
+      },
+      {
+        "id": "b",
+        "label": "2",
+        "text": "不太像我",
+        "delta": {
+          "xu_shi": -1
+        }
+      },
+      {
+        "id": "c",
+        "label": "3",
+        "text": "有时像，有时不像",
+        "delta": {}
+      },
+      {
+        "id": "d",
+        "label": "4",
+        "text": "比较像我",
+        "delta": {
+          "xu_shi": 1
+        }
+      },
+      {
+        "id": "e",
+        "label": "5",
+        "text": "非常像我",
+        "delta": {
+          "xu_shi": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "q22",
+    "type": "likert",
+    "text": "投入已经超过回报时，我能接受停在半途，不会只因做了很久就继续。",
+    "design": {
+      "primaryAxis": "kuang_zhi",
+      "distinguishes": [],
+      "keying": "negative"
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "1",
+        "text": "完全不像我",
+        "delta": {
+          "kuang_zhi": 2
+        }
+      },
+      {
+        "id": "b",
+        "label": "2",
+        "text": "不太像我",
+        "delta": {
+          "kuang_zhi": 1
+        }
+      },
+      {
+        "id": "c",
+        "label": "3",
+        "text": "有时像，有时不像",
+        "delta": {}
+      },
+      {
+        "id": "d",
+        "label": "4",
+        "text": "比较像我",
+        "delta": {
+          "kuang_zhi": -1
+        }
+      },
+      {
+        "id": "e",
+        "label": "5",
+        "text": "非常像我",
+        "delta": {
+          "kuang_zhi": -2
+        }
+      }
+    ]
+  },
+  {
+    "id": "q23",
+    "type": "likert",
+    "text": "没有成熟路线时，我愿意先走一条未经证明的路。",
+    "design": {
+      "primaryAxis": "qi_zheng",
+      "distinguishes": [],
+      "keying": "negative"
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "1",
+        "text": "完全不像我",
+        "delta": {
+          "qi_zheng": 2
+        }
+      },
+      {
+        "id": "b",
+        "label": "2",
+        "text": "不太像我",
+        "delta": {
+          "qi_zheng": 1
+        }
+      },
+      {
+        "id": "c",
+        "label": "3",
+        "text": "有时像，有时不像",
+        "delta": {}
+      },
+      {
+        "id": "d",
+        "label": "4",
+        "text": "比较像我",
+        "delta": {
+          "qi_zheng": -1
+        }
+      },
+      {
+        "id": "e",
+        "label": "5",
+        "text": "非常像我",
+        "delta": {
+          "qi_zheng": -2
+        }
+      }
+    ]
+  },
+  {
+    "id": "q24",
+    "type": "likert",
+    "text": "关系和问题发生冲突时，我宁可把问题说清，也不愿靠含糊维持关系。",
+    "design": {
+      "primaryAxis": "rou_gang",
+      "distinguishes": [],
+      "keying": "positive"
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "1",
+        "text": "完全不像我",
+        "delta": {
+          "rou_gang": -2
+        }
+      },
+      {
+        "id": "b",
+        "label": "2",
+        "text": "不太像我",
+        "delta": {
+          "rou_gang": -1
+        }
+      },
+      {
+        "id": "c",
+        "label": "3",
+        "text": "有时像，有时不像",
+        "delta": {}
+      },
+      {
+        "id": "d",
+        "label": "4",
+        "text": "比较像我",
+        "delta": {
+          "rou_gang": 1
+        }
+      },
+      {
+        "id": "e",
+        "label": "5",
+        "text": "非常像我",
+        "delta": {
+          "rou_gang": 2
+        }
+      }
+    ]
+  }
+]

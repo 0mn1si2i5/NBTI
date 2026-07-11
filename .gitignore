@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.DS_Store
+.playwright-cli/
+tsconfig.tsbuildinfo
+public/assets/
+src/generated-assets/
+output/
+test-results/
+playwright-report/
+coverage/
+
+# Local editorial review runs and source packets are not product documentation.
+docs/editorial/

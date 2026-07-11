@@ -1,0 +1,1221 @@
+[
+  {
+    "id": "u66f9-u4e15",
+    "person": "曹丕",
+    "title": "体面上位",
+    "quote": {
+      "text": "盖文章，经国之大业，不朽之盛事。",
+      "sourceTitle": "《典论·论文》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/典論/論文",
+      "locator": "《典论·论文》"
+    },
+    "why": "你像曹丕：赢可以，但最好带发票。你不迷信热血，知道很多胜利需要包装、命名、归档，再被人当成秩序接受。你冷，不是没情绪，是懒得把欲望演成天命。",
+    "vector": [
+      1.5,
+      0.75,
+      0,
+      0.75,
+      0.75,
+      0
+    ],
+    "avatar": "assets/characters/01-cao-pi.webp",
+    "facts": [
+      {
+        "text": "受汉禅后定国号为魏，改元黄初；他的“上位”从一开始就很讲流程。",
+        "sourceTitle": "《三国志·魏书·文帝纪》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/三國志",
+        "locator": "《三国志·魏书·文帝纪》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "写《典论·论文》谈文章不朽，把文学从才子爱好抬进政治秩序。",
+        "sourceTitle": "《典论·论文》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/典論/論文",
+        "locator": "《典论·论文》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u66f9-u690d",
+    "person": "曹植",
+    "title": "失焦天才",
+    "quote": {
+      "text": "悼良会之永绝兮，哀一逝而异乡。",
+      "sourceTitle": "《洛神赋》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/洛神賦",
+      "locator": "《洛神赋》"
+    },
+    "why": "你像曹植：人生总有一个窗口开错了方向。你不一定输在能力，而是输在系统不需要你这么亮。你会把错位写成光，把失去反复调色，直到它像才华，不像事故。",
+    "vector": [
+      -0.75,
+      -0.75,
+      -1.5,
+      1.5,
+      -0.75,
+      -0.75
+    ],
+    "avatar": "assets/characters/02-cao-zhi.webp",
+    "facts": [
+      {
+        "text": "“七步成诗”的故事把他的才华和危险处境压缩成一个极短镜头。",
+        "sourceTitle": "《世说新语·文学》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/世說新語",
+        "locator": "《世说新语·文学》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "《洛神赋》把失去写成神遇，后世记住的是那种不合时宜的亮。",
+        "sourceTitle": "《文选》卷十九",
+        "sourceUrl": "https://zh.wikisource.org/wiki/昭明文選",
+        "locator": "《文选》卷十九",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u53f8-u9a6c-u61ff",
+    "person": "司马懿",
+    "title": "延迟清算",
+    "quote": {
+      "text": "帝内忌而外宽，猜忌多权变。",
+      "sourceTitle": "《晋书·宣帝纪》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/晉書/卷001",
+      "locator": "《晋书》卷一《宣帝纪》"
+    },
+    "why": "你像司马懿：不急着赢，急的人会替你暴露漏洞。你习惯把情绪冷藏，把局势备份，把一句话听出三层权限。别人以为你没反应，其实你只是还没点结算。",
+    "vector": [
+      1.5,
+      0.75,
+      1.5,
+      1.5,
+      -0.75,
+      0
+    ],
+    "avatar": "assets/characters/03-sima-yi.webp",
+    "facts": [
+      {
+        "text": "曹爽征召时，他以病重示人；真正动手时，是高平陵的一次清算。",
+        "sourceTitle": "《晋书·宣帝纪》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·宣帝纪》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "诸葛亮送女装激他出战，他没有接招，耐心本身就是武器。",
+        "sourceTitle": "《晋书·宣帝纪》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·宣帝纪》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u53f8-u9a6c-u662d",
+    "person": "司马昭",
+    "title": "野心亮屏",
+    "quote": {
+      "text": "司马昭之心，路人所知也。",
+      "sourceTitle": "《汉晋春秋》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/漢晉春秋",
+      "locator": "《汉晋春秋》"
+    },
+    "why": "你像司马昭：目标已经亮到锁屏都遮不住。你不是不会伪装，只是到某个阶段，继续装谦虚反而浪费电。你要的是把暧昧改成流程，把下一步变成所有人的默认设置。",
+    "vector": [
+      1.5,
+      0,
+      1.5,
+      1.5,
+      0.75,
+      1.5
+    ],
+    "avatar": "assets/characters/04-sima-zhao.webp",
+    "facts": [
+      {
+        "text": "曹髦说“司马昭之心，路人所知也”，野心直接变成成语级弹窗。",
+        "sourceTitle": "《汉晋春秋》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/漢晉春秋",
+        "locator": "《汉晋春秋》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "灭蜀之后受封晋公、晋王，魏晋易代的进度条基本由他拉满。",
+        "sourceTitle": "《晋书·文帝纪》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·文帝纪》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u4f55-u664f",
+    "person": "何晏",
+    "title": "概念成瘾",
+    "quote": {
+      "text": "天地万物，皆以无为本。",
+      "sourceTitle": "《晋书·王衍传》引何晏语",
+      "sourceUrl": "https://zh.wikisource.org/wiki/晉書/卷043",
+      "locator": "《晋书》卷四十三《王衍传》"
+    },
+    "why": "你像何晏：现实还没动，你已经给它换了一套话术。你敏感于风格、姿态和高级感，知道一个概念一旦流行，大家连焦虑都会换包装。你的危险是把空气当成地基。",
+    "vector": [
+      0.75,
+      0.75,
+      -1.5,
+      0.75,
+      -0.75,
+      0
+    ],
+    "avatar": "assets/characters/05-he-yan.webp",
+    "facts": [
+      {
+        "text": "他与王弼等人开玄谈风气，喜欢把现实问题先换成高级概念。",
+        "sourceTitle": "《世说新语·文学》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/世說新語",
+        "locator": "《世说新语·文学》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "史书写他“美姿仪”，又好谈老庄，形象管理和概念管理同时在线。",
+        "sourceTitle": "《三国志·魏书·曹爽传》裴注引《魏略》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/三國志",
+        "locator": "《三国志·魏书·曹爽传》裴注引《魏略》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u738b-u5f3c",
+    "person": "王弼",
+    "title": "底层改写",
+    "quote": {
+      "text": "得意在忘象，得象在忘言。",
+      "sourceTitle": "《周易略例》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/周易略例",
+      "locator": "《周易略例·明象》"
+    },
+    "why": "你像王弼：不抢麦，但会改说明书。别人争谁对谁错，你在看概念有没有内存泄漏。你真正的野心不是赢一场辩论，而是让后来的人只能用你的框架理解问题。",
+    "vector": [
+      0,
+      1.5,
+      -1.5,
+      0,
+      1.5,
+      -0.75
+    ],
+    "avatar": "assets/characters/06-wang-bi.webp",
+    "facts": [
+      {
+        "text": "二十余岁去世，却留下《周易注》《老子注》，像短命的底层系统更新。",
+        "sourceTitle": "《三国志·魏书·钟会传》裴注引《王弼传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/三國志",
+        "locator": "《三国志·魏书·钟会传》裴注引《王弼传》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "“得意忘象”后来几乎成了玄学式理解世界的快捷键。",
+        "sourceTitle": "《周易略例·明象》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/周易略例",
+        "locator": "《周易略例·明象》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u5d47-u5eb7",
+    "person": "嵇康",
+    "title": "拒绝登录",
+    "quote": {
+      "text": "非汤武而薄周孔。",
+      "sourceTitle": "《与山巨源绝交书》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/與山巨源絕交書",
+      "locator": "《与山巨源绝交书》"
+    },
+    "why": "你像嵇康：有些系统你宁愿不注册。你不是单纯叛逆，而是对违心的热闹过敏。别人说成熟是兼容，你觉得那只是把自己降级成插件。你要自由，也愿意为它付费。",
+    "vector": [
+      -1.5,
+      -1.5,
+      -0.75,
+      1.5,
+      -1.5,
+      1.5
+    ],
+    "avatar": "assets/characters/07-ji-kang.webp",
+    "facts": [
+      {
+        "text": "写《与山巨源绝交书》，把不合作说得有理、有刺、不可撤回。",
+        "sourceTitle": "《文选》卷四十三",
+        "sourceUrl": "https://zh.wikisource.org/wiki/昭明文選",
+        "locator": "《文选》卷四十三",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "临刑前索琴弹《广陵散》，留下“广陵散于今绝矣”的冷场名场面。",
+        "sourceTitle": "《晋书·嵇康传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·嵇康传》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u962e-u7c4d",
+    "person": "阮籍",
+    "title": "情绪离线",
+    "quote": {
+      "text": "车迹所穷，辄恸哭而反。",
+      "sourceTitle": "《晋书·阮籍传》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/晉書/卷049",
+      "locator": "《晋书》卷四十九《阮籍传》"
+    },
+    "why": "你像阮籍：看懂了，但不想交作业。你会绕开正面表态，用玩笑、沉默、离席保护自己。不是没有立场，是这个世界太爱截图。你的真心很深，只是不随便上线。",
+    "vector": [
+      -1.5,
+      -0.75,
+      -1.5,
+      0.75,
+      -1.5,
+      -0.75
+    ],
+    "avatar": "assets/characters/08-ruan-ji.webp",
+    "facts": [
+      {
+        "text": "他能用青眼、白眼表达态度，社交礼貌在他这里不自动续费。",
+        "sourceTitle": "《晋书·阮籍传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·阮籍传》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "驾车走到路穷处便痛哭而返，像把人生导航开到了虚无。",
+        "sourceTitle": "《晋书·阮籍传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·阮籍传》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u5c71-u6d9b",
+    "person": "山涛",
+    "title": "分寸有价",
+    "quote": {
+      "text": "涛平心处中，各得其所，而俱无恨焉。",
+      "sourceTitle": "《晋书·山涛传》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/晉書/卷043",
+      "locator": "《晋书》卷四十三《山涛传》，钟会、裴秀争权一节"
+    },
+    "why": "你擅长待在不那么显眼的位置，看清一群人怎样彼此牵制。谁只是说得漂亮，谁遇事还能站住，你通常记得很久。这份耐心让你可靠，也让你疲惫：许多人把你的分寸当成天生，却看不见你为了不让局面难看，吞下了多少本可直说的话。",
+    "vector": [
+      0.75,
+      1.5,
+      0.75,
+      0,
+      1.5,
+      -0.75
+    ],
+    "avatar": "assets/characters/09-shan-tao.webp",
+    "facts": [
+      {
+        "text": "山涛四十岁才开始担任郡中小吏。此前他家境贫寒，也曾在曹爽当政时察觉局势不对，主动离开。后来身居高位的经历，不是一条从少年才名自然上升的直线。",
+        "sourceTitle": "《晋书·山涛传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書/卷043",
+        "locator": "《晋书》卷四十三《山涛传》，山涛年四十始仕一节",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "嵇康临刑前对儿子嵇绍说：“巨源在，汝不孤矣。”嵇康此前写过《与山巨源绝交书》，两人的关系并不能用“绝交”二字收束；私人决裂、政治选择与身后托付同时存在。",
+        "sourceTitle": "《晋书·山涛传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書/卷043",
+        "locator": "《晋书》卷四十三《山涛传》，篇首",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "羊祜执政时，有人想加害裴秀，山涛公开保全裴秀，因此得罪当权者并被调离。他并非总以和稀泥避险；有些判断一旦说出口，也会直接改变自己的处境。",
+        "sourceTitle": "《晋书·山涛传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書/卷043",
+        "locator": "《晋书》卷四十三《山涛传》，出任冀州刺史前后",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u738b-u884d",
+    "person": "王衍",
+    "title": "空谈避难",
+    "quote": {
+      "text": "妙善玄言，唯谈老庄为事；世号口中雌黄。",
+      "sourceTitle": "《晋书·王衍传》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/晉書/卷043",
+      "locator": "《晋书》卷四十三《王衍传》"
+    },
+    "why": "你像王衍：现实太重时，你会把自己撤进语言。你能把狼狈说得很轻，把责任说成结构性问题。它有时是优雅，有时是逃生舱。问题是，火烧到门口时，概念不灭火。",
+    "vector": [
+      0.75,
+      -0.75,
+      -1.5,
+      -0.75,
+      -0.75,
+      -0.75
+    ],
+    "avatar": "assets/characters/10-wang-yan.webp",
+    "facts": [
+      {
+        "text": "谈玄时常临场改口，被称“口中雌黄”，语言像随时可热更新。",
+        "sourceTitle": "《晋书·王衍传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·王衍传》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "不肯直说“钱”，只称“阿堵物”，连嫌俗都嫌得很有表演性。",
+        "sourceTitle": "《世说新语·规箴》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/世說新語",
+        "locator": "《世说新语·规箴》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u738b-u5bfc",
+    "person": "王导",
+    "title": "体面续命",
+    "quote": {
+      "text": "王与马，共天下。",
+      "sourceTitle": "《晋书·王导传》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/晉書/卷065",
+      "locator": "《晋书》卷六十五《王导传》"
+    },
+    "why": "你像王导：世界快散架时，你先把桌布铺平。你不迷信英雄独奏，更相信让每个人还有位置、台阶和面子。你的强势不吵，它像后台服务，出问题才知道一直在运行。",
+    "vector": [
+      1.5,
+      1.5,
+      0.75,
+      0,
+      1.5,
+      -1.5
+    ],
+    "avatar": "assets/characters/11-wang-dao.webp",
+    "facts": [
+      {
+        "text": "“王与马，共天下”说的是东晋开局：皇权和门阀一起搭服务器。",
+        "sourceTitle": "《晋书·王导传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·王导传》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "新亭对泣时，他主张共扶王室，不许大家只沉迷亡国情绪。",
+        "sourceTitle": "《世说新语·言语》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/世說新語",
+        "locator": "《世说新语·言语》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u8c22-u5b89",
+    "person": "谢安",
+    "title": "冷场控局",
+    "quote": {
+      "text": "小儿辈遂已破贼。",
+      "sourceTitle": "《晋书·谢安传》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/晉書/卷079",
+      "locator": "《晋书》卷七十九《谢安传》"
+    },
+    "why": "你像谢安：越大的场面，越不能把手抖给别人看。你不是没慌，是把慌压缩成一个表情包都截不到的文件。你用从容制造秩序，让旁人误以为事情本来就该这样结束。",
+    "vector": [
+      0.75,
+      1.5,
+      0,
+      -0.75,
+      0.75,
+      -1.5
+    ],
+    "avatar": "assets/characters/12-xie-an.webp",
+    "facts": [
+      {
+        "text": "淝水捷报到时仍下棋，过门槛才折屐齿，情绪管理只在后台报错。",
+        "sourceTitle": "《晋书·谢安传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·谢安传》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "长期隐居东山，后来入仕主持大局，“东山再起”由此有了人格模板。",
+        "sourceTitle": "《晋书·谢安传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·谢安传》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u6853-u6e29",
+    "person": "桓温",
+    "title": "名声饥饿",
+    "quote": {
+      "text": "既不能流芳后世，亦不足复遗臭万载邪！",
+      "sourceTitle": "《晋书·桓温传》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/晉書/卷098",
+      "locator": "《晋书》卷九十八《桓温传》"
+    },
+    "why": "你像桓温：你害怕的不是失败，是毫无痕迹。你想在世界上敲出回声，哪怕回声不完全好听。你的野心有一种饥饿感：被记住，比被喜欢更像真实存在的证明。",
+    "vector": [
+      1.5,
+      0.75,
+      1.5,
+      1.5,
+      0,
+      1.5
+    ],
+    "avatar": "assets/characters/13-huan-wen.webp",
+    "facts": [
+      {
+        "text": "他说不能流芳后世，也要遗臭万载；被记住比被喜欢更紧急。",
+        "sourceTitle": "《晋书·桓温传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·桓温传》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "多次北伐，功名心和政治野心一起上线，但总差最后一口气。",
+        "sourceTitle": "《晋书·桓温传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·桓温传》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u5218-u88d5",
+    "person": "刘裕",
+    "title": "结果暴力",
+    "quote": {
+      "text": "气吞万里如虎。",
+      "sourceTitle": "辛弃疾《永遇乐·京口北固亭怀古》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/永遇樂_京口北固亭懷古_(辛棄疾)",
+      "locator": "《永遇乐·京口北固亭怀古》"
+    },
+    "why": "你像刘裕：解释太慢，先把事情打通。你相信废话会自动消散，结果会自己长出合法性。你不爱在愿景里泡澡，混乱出现时，你更像一把工具：冷、重、好用。",
+    "vector": [
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      0.75,
+      1.5
+    ],
+    "avatar": "assets/characters/14-liu-yu.webp",
+    "facts": [
+      {
+        "text": "出身并不显贵，却靠军功一路打穿南朝开局，最后建立刘宋。",
+        "sourceTitle": "《宋书·武帝纪》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/宋書",
+        "locator": "《宋书·武帝纪》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "北伐灭南燕、后秦，辛弃疾后来用“气吞万里如虎”给他做了高燃剪辑。",
+        "sourceTitle": "《宋书·武帝纪》；辛弃疾《永遇乐》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/宋書",
+        "locator": "《宋书·武帝纪》；辛弃疾《永遇乐》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u9676-u6e0a-u660e",
+    "person": "陶渊明",
+    "title": "退出系统",
+    "quote": {
+      "text": "采菊东篱下，悠然见南山。",
+      "sourceTitle": "陶渊明《饮酒·其五》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/飲酒二十首",
+      "locator": "《饮酒二十首》其五"
+    },
+    "why": "你像陶渊明：不是赢不了，是不想再被这套评分表审核。你能看见许多热闹背后的空转，于是把自己从噪音里拔出来。你的退出不是摆烂，是把人生改成离线模式。",
+    "vector": [
+      -1.5,
+      0,
+      -0.75,
+      -1.5,
+      0.75,
+      -0.75
+    ],
+    "avatar": "assets/characters/15-tao-yuanming.webp",
+    "facts": [
+      {
+        "text": "辞彭泽令时“不为五斗米折腰”，退出也可以是一种硬姿态。",
+        "sourceTitle": "《晋书·陶潜传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·陶潜传》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "写《桃花源记》，把离线生活做成中国文学里最耐用的隐藏地图。",
+        "sourceTitle": "《陶渊明集·桃花源记》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/陶淵明集",
+        "locator": "《陶渊明集·桃花源记》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u738b-u7fb2-u4e4b",
+    "person": "王羲之",
+    "title": "清醒风雅",
+    "quote": {
+      "text": "固知一死生为虚诞，齐彭殇为妄作。",
+      "sourceTitle": "王羲之《兰亭集序》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/蘭亭集序",
+      "locator": "《兰亭集序》"
+    },
+    "why": "你像王羲之：你享受漂亮时刻，但不会被它骗得太久。你知道聚会会散、截图会糊、人生终究没有永久置顶。你的风雅不是麻醉，而是在有限里把姿态调到最稳。",
+    "vector": [
+      -0.75,
+      0,
+      -1.5,
+      -0.75,
+      0.75,
+      -0.75
+    ],
+    "avatar": "assets/characters/16-wang-xizhi.webp",
+    "facts": [
+      {
+        "text": "兰亭雅集写成《兰亭集序》，聚会散场以后，文字还在继续置顶。",
+        "sourceTitle": "《晋书·王羲之传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·王羲之传》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "传说他爱鹅，曾以写《道德经》换鹅，审美可以很认真也很可爱。",
+        "sourceTitle": "《晋书·王羲之传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·王羲之传》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u8c22-u7075-u8fd0",
+    "person": "谢灵运",
+    "title": "风景上瘾",
+    "quote": {
+      "text": "池塘生春草，园柳变鸣禽。",
+      "sourceTitle": "谢灵运《登池上楼》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/登池上樓",
+      "locator": "《登池上楼》"
+    },
+    "why": "你像谢灵运：你说自己去看风景，其实也在看自己。山水是你的滤镜，也是第二战场。你退开人群，不代表放下认可；你只是换个地方继续证明：我的敏感不是噪点。",
+    "vector": [
+      -0.75,
+      -0.75,
+      -1.5,
+      1.5,
+      -0.75,
+      0.75
+    ],
+    "avatar": "assets/characters/17-xie-lingyun.webp",
+    "facts": [
+      {
+        "text": "游山常穿特制木屐，上山去前齿、下山去后齿；《宋书》记下了这种为山路改装的细节。",
+        "sourceTitle": "《宋书·谢灵运传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/宋書/卷67",
+        "locator": "《宋书·谢灵运传》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "任永嘉太守时，他遍历境内山水，所至辄题诗纪行；传记也记下他对郡务并不十分上心。",
+        "sourceTitle": "《宋书·谢灵运传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/宋書/卷67",
+        "locator": "《宋书·谢灵运传》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ge-hong",
+    "person": "葛洪",
+    "title": "方法自救",
+    "quote": {
+      "text": "我命在我，不在天。",
+      "sourceTitle": "《抱朴子内篇》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/抱朴子內篇",
+      "locator": "《抱朴子内篇》"
+    },
+    "why": "你像葛洪：世界不稳定，你就研究怎么不被它稳定地伤害。你相信知识、身体、配方、系统和长期主义。你不急着坐到中心位，因为你更想拥有一套随身可运行的生存协议。",
+    "vector": [
+      -0.75,
+      1.5,
+      -0.75,
+      1.5,
+      0.75,
+      -0.75
+    ],
+    "avatar": "assets/characters/18-ge-hong.webp",
+    "facts": [
+      {
+        "text": "著《抱朴子》，把神仙、修身、方术和现实秩序整理成一套系统。",
+        "sourceTitle": "《晋书·葛洪传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·葛洪传》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "曾求为句漏令，因为那里产丹砂；人生规划非常垂直。",
+        "sourceTitle": "《晋书·葛洪传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·葛洪传》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u77f3-u52d2",
+    "person": "石勒",
+    "title": "泥地开局",
+    "quote": {
+      "text": "大丈夫行事，宜礌礌落落，如日月皎然。",
+      "sourceTitle": "《晋书·石勒载记》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/晉書/卷105",
+      "locator": "《晋书》卷一百五《石勒载记》"
+    },
+    "why": "你像石勒：起点不体面，但你不打算向体面申请许可。你相信乱局里最诚实的东西是能力：谁能组织人，谁能解决事，谁就有名字。你的履历不好看，但生命力很硬。",
+    "vector": [
+      1.5,
+      0.75,
+      1.5,
+      0.75,
+      -0.75,
+      1.5
+    ],
+    "avatar": "assets/characters/19-shi-le.webp",
+    "facts": [
+      {
+        "text": "早年曾被掠卖为奴，后来建立后赵，开局堪称地狱难度。",
+        "sourceTitle": "《晋书·石勒载记》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·石勒载记》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "虽不以儒生姿态出场，却重用张宾等谋士，知道系统不能只靠蛮力。",
+        "sourceTitle": "《晋书·石勒载记》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·石勒载记》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u82fb-u575a",
+    "person": "苻坚",
+    "title": "再信一次",
+    "quote": {
+      "text": "宏达大度，善驭英豪，录功舍过，有汉祖之风。",
+      "sourceTitle": "《晋书·苻坚载记上》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/晉書/卷113",
+      "locator": "《晋书》卷一百十三《苻坚载记上》，权翼进言一节"
+    },
+    "why": "你很难满足于只把自己那一小块过好。看见彼此隔绝的人和事，你会本能地想搭起联系。你愿意信人，也愿意给失败者第二个位置，这既是气量，也是盲点。因为你常把抗拒理解成尚未被说服，直到局面已经松动，才发现有些裂缝不是靠诚意就能合上。",
+    "vector": [
+      1.5,
+      1.5,
+      0,
+      1.5,
+      -0.75,
+      0
+    ],
+    "avatar": "assets/characters/20-fu-jian.webp",
+    "facts": [
+      {
+        "text": "匈奴左贤王卫辰请求进入内地放牧，地方将领却袭击并掠夺其部众。苻坚下令归还财物、罢免主将，理由是不能为小利失信。此后苻融又劝他把新降部众迁回塞外，他接受了建议。",
+        "sourceTitle": "《晋书·苻坚载记上》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書/卷113",
+        "locator": "《晋书》卷一百十三《苻坚载记上》，卫辰内附一节",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "慕容垂来投时，王猛认为此人日后难以控制，主张除掉。苻坚拒绝，称自己已经以诚相告，此时杀他无法向人交代。这个选择后来常被当作成败预兆，但在当时也确实涉及接纳降人的信用。",
+        "sourceTitle": "《晋书·苻坚载记上》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書/卷113",
+        "locator": "《晋书》卷一百十三《苻坚载记上》，慕容垂奔秦一节",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "苻坚重用王猛整顿权贵，也并非始终从容。权翼当面提醒他待臣下言语轻慢，苻坚回答“朕之过也”；同一段材料里，既有严厉清洗，也有接受劝谏。",
+        "sourceTitle": "《晋书·苻坚载记上》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書/卷113",
+        "locator": "《晋书》卷一百十三《苻坚载记上》，樊世被诛一节",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u738b-u731b",
+    "person": "王猛",
+    "title": "秩序洁癖",
+    "quote": {
+      "text": "明法峻刑，澄察善恶，禁勒强豪。",
+      "sourceTitle": "《晋书·王猛传》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/晉書/卷114",
+      "locator": "《晋书》卷一百十四《苻坚载记》附王猛事"
+    },
+    "why": "你像王猛：你对含糊其辞过敏。别人说差不多，你已经在写责任矩阵。你不迷恋权力本身，迷恋混乱被拆开、标号、归位的瞬间。你的温柔方式很少，可靠方式很多。",
+    "vector": [
+      1.5,
+      1.5,
+      1.5,
+      0.75,
+      1.5,
+      0.75
+    ],
+    "avatar": "assets/characters/21-wang-meng.webp",
+    "facts": [
+      {
+        "text": "布衣见桓温时“扪虱而谈”，形象不体面，但判断力很在线。",
+        "sourceTitle": "《晋书·王猛传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·王猛传》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "临终劝苻坚不要轻易伐晋，像给宏大愿景留下最后一条风控提示。",
+        "sourceTitle": "《晋书·王猛传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·王猛传》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u6155-u5bb9-u5782",
+    "person": "慕容垂",
+    "title": "败局重启",
+    "quote": {
+      "text": "阔达好奇，终能破人家。",
+      "sourceTitle": "《晋书·慕容垂载记》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/晉書/卷123",
+      "locator": "《晋书》卷一百二十三《慕容垂载记》"
+    },
+    "why": "你像慕容垂：别人宣布结束时，你在看还能回收什么。失败对你不是墓碑，更像一个版本号。你擅长从残余里找旗帜，从旧人心里找电量，然后安静地重启一局。",
+    "vector": [
+      1.5,
+      0,
+      1.5,
+      0.75,
+      0,
+      0.75
+    ],
+    "avatar": "assets/characters/22-murong-chui.webp",
+    "facts": [
+      {
+        "text": "枋头之战大破桓温，证明残局里也能突然反杀。",
+        "sourceTitle": "《晋书·慕容垂载记》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·慕容垂载记》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "前秦崩解后建立后燕，把失败时代的残余重新拼成一局。",
+        "sourceTitle": "《晋书·慕容垂载记》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·慕容垂载记》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u5143-u5b8f",
+    "person": "元宏",
+    "title": "身份重装",
+    "quote": {
+      "text": "帝王制作，朝野轨度。",
+      "sourceTitle": "《魏书·高祖纪》史臣曰",
+      "sourceUrl": "https://zh.wikisource.org/wiki/魏書/卷7下",
+      "locator": "《魏书》卷七下《高祖纪》"
+    },
+    "why": "你像元宏：你不满足于换个头像，你想连操作系统都更新。语言、习惯、身份、规则，只要旧版本拖慢未来，你就敢动。你的问题是，重装系统时别人也会跟着断线。",
+    "vector": [
+      1.5,
+      1.5,
+      0.75,
+      1.5,
+      -1.5,
+      0.75
+    ],
+    "avatar": "assets/characters/23-yuan-hong.webp",
+    "facts": [
+      {
+        "text": "迁都洛阳，推动北魏从草原政治切到中原制度界面。",
+        "sourceTitle": "《魏书·高祖纪》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/魏書",
+        "locator": "《魏书·高祖纪》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "改拓跋氏为元氏，推行服饰语言改革，身份更新不是换头像，是刷系统。",
+        "sourceTitle": "《魏书·高祖纪》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/魏書",
+        "locator": "《魏书·高祖纪》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u9ad8-u6b22",
+    "person": "高欢",
+    "title": "灰度控盘",
+    "quote": {
+      "text": "天苍苍，野茫茫，风吹草低见牛羊。",
+      "sourceTitle": "《敕勒歌》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/敕勒歌",
+      "locator": "《敕勒歌》"
+    },
+    "why": "你像高欢：你不相信纯洁方案能解决复杂人类。你能在不同利益、口音、身份之间找可运行的灰度。你不是没有立场，只是知道很多局面先活下来，才有资格谈好看。",
+    "vector": [
+      1.5,
+      0.75,
+      1.5,
+      0.75,
+      0.75,
+      0
+    ],
+    "avatar": "assets/characters/24-gao-huan.webp",
+    "facts": [
+      {
+        "text": "出身六镇边地，后来控制东魏政局，靠的是复杂人群里的控盘能力。",
+        "sourceTitle": "《北齐书·神武帝纪》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/北齊書",
+        "locator": "《北齐书·神武帝纪》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "《敕勒歌》常系于他的军中语境，粗粝、开阔，也很会制造共同情绪。",
+        "sourceTitle": "《乐府诗集》卷八十六",
+        "sourceUrl": "https://zh.wikisource.org/wiki/樂府詩集",
+        "locator": "《乐府诗集》卷八十六",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u5b87-u6587-u6cf0",
+    "person": "宇文泰",
+    "title": "小盘建国",
+    "quote": {
+      "text": "事无巨细，皆委决焉。",
+      "sourceTitle": "《周书·文帝纪》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/周書/卷02",
+      "locator": "《周书》卷二《文帝纪》"
+    },
+    "why": "你像宇文泰：资源少不是借口，是产品约束。你会把零散的人、旧制度和新身份捏成能承重的东西。你不追求场面铺满屏幕，你追求小盘子里长出未来的骨架。",
+    "vector": [
+      1.5,
+      1.5,
+      1.5,
+      0.75,
+      -0.75,
+      0.75
+    ],
+    "avatar": "assets/characters/25-yuwen-tai.webp",
+    "facts": [
+      {
+        "text": "在关陇小盘里整合鲜卑、汉人和地方豪强，给北周打骨架。",
+        "sourceTitle": "《周书·文帝纪》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/周書",
+        "locator": "《周书·文帝纪》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "重用苏绰推行制度改革，低资源局面里先把规则做成承重墙。",
+        "sourceTitle": "《周书·苏绰传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/周書",
+        "locator": "《周书·苏绰传》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u9648-u5e86-u4e4b",
+    "person": "陈庆之",
+    "title": "窗口突袭",
+    "quote": {
+      "text": "千兵万马避白袍。",
+      "sourceTitle": "《梁书·陈庆之传》童谣",
+      "sourceUrl": "https://zh.wikisource.org/wiki/梁書/卷32",
+      "locator": "《梁书》卷三十二《陈庆之传》"
+    },
+    "why": "你像陈庆之：你不等所有条件批准自己。机会出现时，你会先冲过去，让现实来补手续。你的优势是速度和奇招，风险也是速度和奇招。你把不可能做成一条临时通道。",
+    "vector": [
+      1.5,
+      0,
+      1.5,
+      0.75,
+      -1.5,
+      0.75
+    ],
+    "avatar": "assets/characters/26-chen-qingzhi.webp",
+    "facts": [
+      {
+        "text": "以数千白袍军北伐入洛，童谣称“千兵万马避白袍”。",
+        "sourceTitle": "《梁书·陈庆之传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/梁書",
+        "locator": "《梁书·陈庆之传》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "他并非传统猛将体格，却靠速度、纪律和窗口期打出传奇感。",
+        "sourceTitle": "《梁书·陈庆之传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/梁書",
+        "locator": "《梁书·陈庆之传》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u4faf-u666f",
+    "person": "侯景",
+    "title": "忍耐有期",
+    "quote": {
+      "text": "侯景狡猾多计，反复难知，我死后，必不为汝用。",
+      "sourceTitle": "《梁书·侯景传》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/梁書/卷56",
+      "locator": "《梁书》卷五十六《侯景传》，高欢临终告诫高澄一节"
+    },
+    "why": "你能忍受困难，却很难忍受别人把你的忍耐当成理所当然。轻慢、拖欠和敷衍在你这里不会自然消失，它们会被保存下来，等某个时刻一并改变你对关系的判断。你并非逢事都要翻脸；恰恰因为曾经等过、让过，真正决定离开或反击时才很少回头。",
+    "vector": [
+      1.5,
+      -1.5,
+      0.75,
+      1.5,
+      -1.5,
+      1.5
+    ],
+    "avatar": "assets/characters/27-hou-jing.webp",
+    "facts": [
+      {
+        "text": "侯景最初只是北镇戍兵，北方战乱给了他不断改换统属、凭军功上升的机会。他先后依附尔朱荣、高欢，最后控制河南大片地区；这条路径本身就属于政权频繁崩解的时代。",
+        "sourceTitle": "《梁书·侯景传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/梁書/卷56",
+        "locator": "《梁书》卷五十六《侯景传》，传记开篇",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "《梁书》一面称侯景残酷，一面记载他把战争所得分给将士，因此军队愿意为他效力。这里保存的是军事集团内部的利益关系，不宜改写成“他懂得人性”一类赞语。",
+        "sourceTitle": "《梁书·侯景传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/梁書/卷56",
+        "locator": "《梁书》卷五十六《侯景传》，依附高欢一节",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "高欢去世前判断侯景不会服从高澄，果然很快召他回朝。侯景没有赴召，而是向梁朝请降，并在上表中把自己描写成受猜忌的旧臣。风险判断、政治辩护与后来叛梁，是三个相连但不能互相替代的事实。",
+        "sourceTitle": "《梁书·侯景传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/梁書/卷56",
+        "locator": "《梁书》卷五十六《侯景传》，太清元年请降一节",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u8427-u884d",
+    "person": "萧衍",
+    "title": "躬身入局",
+    "quote": {
+      "text": "自我得之，自我失之，亦复何恨。",
+      "sourceTitle": "《资治通鉴》卷一百六十二",
+      "sourceUrl": "https://zh.wikisource.org/wiki/資治通鑑/卷162",
+      "locator": "《资治通鉴》卷一百六十二，台城失陷一节"
+    },
+    "why": "你相信真正的改变要从自己开始，因此不太容忍“知道但做不到”这种宽松说法。你肯付出，也肯克制，常能在漫长的日子里维持别人做不到的专注。但自我要求一旦扩展到周围，善意便会悄悄带上命令的口气。你以为自己在邀请大家靠近一种更好的生活，别人感受到的却可能是：他们必须先变好，才配得到你的理解。",
+    "vector": [
+      1.5,
+      0.75,
+      -0.75,
+      1.5,
+      -0.75,
+      -0.75
+    ],
+    "avatar": "assets/characters/28-xiao-yan.webp",
+    "facts": [
+      {
+        "text": "大同六年，萧衍批评臣下遇到疑难便站在殿前等皇帝独断，并引用“主非尧舜，何得发言便是”，要求尚书先在朝堂讨论。长期君主并不等于在所有场合都宣称自己不会错。",
+        "sourceTitle": "《梁书·武帝纪下》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/梁書/卷03",
+        "locator": "《梁书》卷三《武帝纪下》，大同六年八月诏",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "萧衍的《断酒肉文》不是一句饮食禁令，而是一篇反复论证僧人为何不得饮酒食肉的长文。它针对僧团戒律，却也显示他会把个人确信写成细密、普遍而不容含混的规范。",
+        "sourceTitle": "《断酒肉文》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/斷酒肉文",
+        "locator": "《断酒肉文》全文",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "大同七年，萧衍在诏书中列举地方摊派、豪强占田、限制百姓樵采等问题，措辞极重；同一时期的纪年又持续记录各地叛乱和边境危机。政策上的敏感与执行上的失效可以同时存在。",
+        "sourceTitle": "《梁书·武帝纪下》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/梁書/卷03",
+        "locator": "《梁书》卷三《武帝纪下》，大同七年诏书",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u9ad8-u6d0b",
+    "person": "高洋",
+    "title": "藏锋待时",
+    "quote": {
+      "text": "此人亦得富贵，相法亦何由可解。",
+      "sourceTitle": "《北齐书·文宣帝纪》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/北齊書/卷4",
+      "locator": "《北齐书》卷四《文宣帝纪》，高澄嘲笑高洋一节"
+    },
+    "why": "你不介意别人暂时低估自己，甚至会利用这种误判，等到真正需要时再交出答案。你有很强的现实感，知道秩序并不总靠漂亮话维持。可一旦证明过自己的能力，你会越来越难忍受质疑，仿佛每一次反对都在否定曾经那个被轻看的自己。于是你越想确保局面不再失控，越可能把周围的人推向沉默。",
+    "vector": [
+      1.5,
+      0,
+      0.75,
+      1.5,
+      -1.5,
+      1.5
+    ],
+    "avatar": "assets/characters/29-gao-yang.webp",
+    "facts": [
+      {
+        "text": "《北齐书》称高洋年轻时外表迟钝，实际“内虽明敏”，高澄常拿他取笑，高欢却认为他的见识超过自己。材料既可能保留家族记忆，也带有帝王本纪塑造异人童年的惯例。",
+        "sourceTitle": "《北齐书·文宣帝纪》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/北齊書/卷4",
+        "locator": "《北齐书》卷四《文宣帝纪》，篇首",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "高澄突然遇刺时，内外震动，高洋先压住消息、处理刺客，再赶赴晋阳接手政务；史书随后记他初掌政事“务从宽厚”，废除不便之事。这与后来的暴虐记录出现在同一卷中。",
+        "sourceTitle": "《北齐书·文宣帝纪》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/北齊書/卷4",
+        "locator": "《北齐书》卷四《文宣帝纪》，武定七年八月以后",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "《北齐书》的总评把高洋前期勤于政务、处理繁剧和亲临战阵，与六七年后的酗酒、滥杀和大兴役作连续写在一起。它没有提供一个方便的转折原因，只留下能力、功业和失控并存的断裂。",
+        "sourceTitle": "《北齐书·文宣帝纪》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/北齊書/卷4",
+        "locator": "《北齐书》卷四《文宣帝纪》，卷末史臣论述",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u5218-u4f36",
+    "person": "刘伶",
+    "title": "礼法静音",
+    "quote": {
+      "text": "唯酒是务，焉知其余。",
+      "sourceTitle": "刘伶《酒德颂》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/酒德頌",
+      "locator": "《酒德颂》"
+    },
+    "why": "你像刘伶：世界给你弹出的责任提示，你经常直接静音。你不是不知道规矩，只是不想让规矩把你整个人格式化。你的荒诞感是一种防火墙，挡住功名、体面和过度认真。",
+    "vector": [
+      -1.5,
+      -1.5,
+      -1.5,
+      -0.75,
+      -1.5,
+      -1.5
+    ],
+    "avatar": "assets/characters/30-liu-ling.webp",
+    "facts": [
+      {
+        "text": "作《酒德颂》，把酒写成对礼法世界的静音键。",
+        "sourceTitle": "《文选》卷四十七",
+        "sourceUrl": "https://zh.wikisource.org/wiki/昭明文選",
+        "locator": "《文选》卷四十七",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "常乘鹿车携酒，使人荷锸随行，说死便埋，荒诞感非常完整。",
+        "sourceTitle": "《晋书·刘伶传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/晉書",
+        "locator": "《晋书·刘伶传》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u9676-u5f18-u666f",
+    "person": "陶弘景",
+    "title": "远程入世",
+    "quote": {
+      "text": "山中何所有，岭上多白云。",
+      "sourceTitle": "陶弘景《诏问山中何所有赋诗以答》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/答詔問",
+      "locator": "《答诏问》"
+    },
+    "why": "你像陶弘景：你想离现场远一点，但不想离作用太远。你更适合把专业、判断和知识放在云端运行。山林不是逃避，是你的权限管理：谁能打扰你，先过审核。",
+    "vector": [
+      -1.5,
+      0.75,
+      -0.75,
+      -0.75,
+      -0.75,
+      -0.75
+    ],
+    "avatar": "assets/characters/31-tao-hongjing.webp",
+    "facts": [
+      {
+        "text": "隐居茅山仍被梁武帝频繁咨询，世称“山中宰相”。",
+        "sourceTitle": "《梁书·陶弘景传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/梁書",
+        "locator": "《梁书·陶弘景传》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "整理《本草经集注》，把知识做成可检索、可复用的生存系统。",
+        "sourceTitle": "《梁书·陶弘景传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/梁書",
+        "locator": "《梁书·陶弘景传》",
+        "sourceKind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "u5ebe-u4fe1",
+    "person": "庾信",
+    "title": "记忆滞留",
+    "quote": {
+      "text": "暮年诗赋动江关。",
+      "sourceTitle": "杜甫《咏怀古迹五首·其一》",
+      "sourceUrl": "https://zh.wikisource.org/wiki/詠懷古跡五首",
+      "locator": "《咏怀古迹五首》其一"
+    },
+    "why": "你像庾信：人已经到了新地方，心还卡在旧版本。你能继续工作、说话、更新生活，但某个后台进程一直在播放失去。你的力量来自记忆，你的耗电量也来自它。",
+    "vector": [
+      -0.75,
+      0,
+      -1.5,
+      1.5,
+      0.75,
+      -0.75
+    ],
+    "avatar": "assets/characters/32-yu-xin.webp",
+    "facts": [
+      {
+        "text": "出使西魏后被留北方，人生从梁朝文士切换成乱世滞留账号。",
+        "sourceTitle": "《周书·庾信传》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/周書",
+        "locator": "《周书·庾信传》",
+        "sourceKind": "primary"
+      },
+      {
+        "text": "《哀江南赋》把故国记忆写成大体量后台进程，越老越耗电。",
+        "sourceTitle": "《庾子山集·哀江南赋》",
+        "sourceUrl": "https://zh.wikisource.org/wiki/庾子山集_(四部叢刊本)/目録",
+        "locator": "《庾子山集·哀江南赋》",
+        "sourceKind": "primary"
+      }
+    ]
+  }
+]
