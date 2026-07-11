@@ -1,68 +1,25 @@
 # NBTI
 
-Vite + React static app for the NBTI 魏晋南北朝人格测试. The app has no backend, analytics, cookies, or browser storage. Quiz answers stay in memory for the current tab and disappear on refresh or close.
+魏晋南北朝人格趣味测试。
 
-## Commands
+用 24 个日常处境，看看哪一位历史人物最像你。这里的“像”不是给人下定义，也不是替历史人物判案；它只是借三十二面古人的镜子，照一照你在关系、选择、秩序与压力中的习惯。
 
-```bash
-npm install
-npm run clean
-npm run assets:build
-npm run validate:data
-npm run validate:docs
-npm run validate:privacy
-npm run analyze:matching
-npm test
-npm run typecheck
-npm run dev
-npm run build
-```
+[开始测试](https://0mn1si2i5.github.io/NBTI/)
 
-Browser checks require Chromium once:
+## 你会得到什么
 
-```bash
-npx playwright install chromium
-npm run test:e2e
-```
+- 一位历史人物与一个人格结果名
+- 一段关于你的文字，而不只是性格标签
+- 六种行动倾向的当下位置
+- 2 至 3 条可追溯的史料边角
+- 相近与相反的结果，供你继续比较
 
-## Data
+## 关于这个测试
 
-- `src/data/people.json`: 32 character results, vectors, copy, avatar paths
-- `src/data/questions.json`: 18 scenario questions, 6 five-point calibration items, and balanced deltas
-- `src/data/axes.json`: six dimensions and matching weights
-- `assets-source/characters/`: lossless source PNG portraits
-- `assets-source/nbti-ink-bg.png`: lossless source background
-- `public/assets/characters/`: generated WebP portraits; do not edit directly
+NBTI 是一个趣味人格测试，不是心理、医学或科学诊断。结果由你在本次答题中的选择确定；它不收集、不上传，也不保存你的答案。刷新或关闭页面后，答题记录就会消失。
 
-`npm run clean` removes build output, generated WebP files, test artifacts, TypeScript cache, and Finder metadata. All removed assets are recreated by `npm run assets:build` or the build and validation pre-hooks.
+人物引文和史料边角都可以在结果页直接打开。你不需要先读任何说明，按自己的真实反应答完即可。
 
-Run `npm run validate:data` after changing people, questions, axes, or character images.
+## 许可
 
-Run `npm run validate:privacy` after changing application code. It rejects network requests, cookies, and browser persistence under `src/`.
-
-`src/data/*.json` is canonical. Run `npm run docs:sync` after accepted data changes; CI rejects stale `docs/people.md` or `docs/questions.md`.
-
-## Docs
-
-- `docs/dimensions.md`
-- `docs/people.md`
-- `docs/questions.md`
-- `docs/product.md`
-
-Editorial review drafts and research packets stay local and are intentionally excluded from the public repository.
-
-## Deploy
-
-`vite.config.ts` uses `base: "./"`, and hash routing keeps every route compatible with a GitHub Pages project subpath. Build output is generated in `dist/`.
-
-The workflow at `.github/workflows/deploy-pages.yml` validates and deploys every push to `main`. In the GitHub repository, open **Settings → Pages** and set **Source** to **GitHub Actions**. The site will then be published at:
-
-```text
-https://<account>.github.io/<repository>/
-```
-
-If the default branch is not `main`, update the branch name in the workflow.
-
-## License
-
-Source code is MIT licensed. Original copy and character artwork are CC BY-NC 4.0; see `CONTENT_LICENSE.md` and `NOTICE.md` for scope and source-material notes.
+代码采用 MIT 许可。原创结果文案、题目文案和人物画像采用 CC BY-NC 4.0；古籍引文与史料链接保留各自来源与说明。详见 [内容许可](CONTENT_LICENSE.md)。
